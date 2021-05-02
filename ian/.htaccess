@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile /home/martinabreu/.htpasswds/public_html/nyrvg.com/ian/passwd
+require valid-user

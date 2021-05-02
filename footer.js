@@ -1,0 +1,1 @@
+document.write('<div id="footer"><p style="text-align:center">&#169; 2019 NYRVG, All Rights Reserved.</p></div>')

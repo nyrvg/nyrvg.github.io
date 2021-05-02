@@ -1,0 +1,1 @@
+document.write('<div id="header"><h1><a href="index.html">The New York Review of Video Games</a></h1></div><div class="navbar"><div class="table"><a href="./index.html">Latest</a><a href="./archive.html">Archive</a><a href="./about.html">About</a></div></div>');
